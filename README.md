@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haml3urger
-- 👀 I’m interested in sleeping
+- 👀 I’m interested in sleeping, music and vidya
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
